@@ -1,0 +1,10 @@
+{
+    "Slack": {
+        "Token": "xxxx-11111111111-n024728734hskjdnchfdb4as",
+        "Channel": "C2ACTNZQS"
+    },
+    "Telegram": {
+        "Token": "012345678:abcdefghijklmn024728734hskjdnchfdb4",
+        "Admins": "admin1 admin2 admin3"
+    }
+}

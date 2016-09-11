@@ -1,0 +1,7 @@
+[target]
+path = github.com/mrexodia/gotgslack
+
+[deps]
+github.com/go-telegram-bot-api/telegram-bot-api = commit:217764b
+github.com/jinzhu/configor = commit:f740b0b
+github.com/nlopes/slack = commit:a8ceb9d
